@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://b2cxk2vlghfgk"]
+
+[node name="TerrainLab" type="Node2D" unique_id=518597007]
+
+[node name="Polygon2D" type="Polygon2D" parent="." unique_id=262174703]

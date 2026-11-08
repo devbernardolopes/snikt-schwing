@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://b6dgbeuiia5uy"]
+
+[ext_resource type="Script" uid="uid://djl6bpqiko6ht" path="res://scripts/terrain.gd" id="1_b0j75"]
+
+[node name="Terrain" type="Polygon2D" unique_id=2035718257]
+script = ExtResource("1_b0j75")
